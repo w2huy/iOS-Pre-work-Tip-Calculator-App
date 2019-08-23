@@ -33,7 +33,7 @@ GIF created with [Recordit](https://recordit.co/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I hope you like it!
 
 ## License
 
